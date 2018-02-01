@@ -4,7 +4,7 @@ This repository is based on the Udemy course called [Data Science: Natural Langu
 
 The Udemy course contains the following sections:
 
-* Natural Language Processing - What is it used for?
+* **Natural Language Processing - What is it used for?**
 	* Introduction and Outline
 	* NLP Applications
 	* Why is NLP hard?
